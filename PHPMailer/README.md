@@ -1,0 +1,1 @@
+PHPMailer dependency: the contact endpoint expects the official PHPMailer source files at src/Exception.php, src/PHPMailer.php, and src/SMTP.php. Upstream: https://github.com/PHPMailer/PHPMailer/tree/master/src. The files were not copied into this repository by this publishing operation; add the official files before using contact.php.

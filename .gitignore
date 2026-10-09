@@ -1,0 +1,9 @@
+# Private settings and local files
+/private-config.php
+/.env
+/.env.*
+*.log
+*.bak
+*.old
+.DS_Store
+.idea/
